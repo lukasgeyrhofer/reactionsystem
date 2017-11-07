@@ -1,2 +1,2 @@
 # reactionsystem
-Symbolic dynamics for stochastic interation of populations
+Symbolic dynamics for stochastic interaction of populations
